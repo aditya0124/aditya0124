@@ -1,5 +1,26 @@
 <h1 align="center">Hi 👋, I'm Aditya Nath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p>
+  const pranay = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "C++"],
+    askMeAbout: ["frontend", "tech", "blockchain", "movies"],
+    technologies: {
+        
+        frontEnd: {
+            js: ["React","ReduxToolkit", "Next.js"],
+            css: ["TailwindCSS", "ShadCN", "DaisyUI"]
+        },
+        backEnd: {
+            backendservice: ["Appwrite"]
+        },
+      },
+    architecture: ["Serverless Architecture", "Progressive frontend applications", "Single page applications"],
+    currentProject: "I am developing a Movie App using React,react-router,ReduxToolki and Appwrite",
+    currentLearning: "Blockchain cryptography and Solidity Basics"
+    Aim: "I'm jumping into web3 tech for some open source contributions on GitHub and to help shape the future of the digital landscape!"
+};
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya0124" alt="aditya0124" /></a> </p>
