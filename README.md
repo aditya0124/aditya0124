@@ -2,22 +2,21 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p>
   
-        const pranay = {
+        const Aditya = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "C++"],
-    askMeAbout: ["frontend", "tech", "blockchain", "movies"],
+    code: ["Javascript", "C++"],
+    askMeAbout: ["frontend", "tech",],
     technologies: {
         frontEnd: {
-            js: ["React","ReduxToolkit", "Next.js"],
-            css: ["TailwindCSS", "ShadCN", "DaisyUI"]
+            js: ["React","ReduxToolkit"],
         },
         backEnd: {
-            backendservice: ["Appwrite"]
+            backendservice: ["NodeJs, ExpressJS, MongoDB"]
         },
       },
-    architecture: ["Serverless Architecture", "Progressive frontend applications", "Single page applications"],
+
     currentProject: "I am developing a Movie App using React,react-router,ReduxToolki and Appwrite",
-    currentLearning: "Blockchain cryptography and Solidity Basics"
+    currentLearning: "MERN Stack"
     Aim: "I'm jumping into web3 tech for some open source contributions on GitHub and to help shape the future of the digital landscape!"
 };
 </p>
