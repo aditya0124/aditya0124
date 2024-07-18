@@ -2,9 +2,7 @@
 
 MORE ABOUT ME:- 
 
-
-
-
+{
 const Aditya = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C++"],
@@ -22,6 +20,9 @@ const Aditya = {
     currentLearning: "MERN Stack"
     Aim: "I'm jumping into web3 tech for some open source contributions on GitHub and to help shape the future of the digital landscape!"
 };
+}
+
+
 
 img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 ## 🌐 Socials:
