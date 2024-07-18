@@ -4,7 +4,6 @@ const Aditya = {
     code: ["Javascript", "C++"],
     askMeAbout: ["frontend", "tech",],
     technologies: {
-        
         frontEnd: {
             js: ["React","ReduxToolkit"]
         },
