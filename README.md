@@ -20,7 +20,7 @@
     Aim: "I'm jumping into web3 tech for some open source contributions on GitHub and to help shape the future of the digital landscape!"
 };
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya0124" alt="aditya0124" /></a> </p>
 
