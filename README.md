@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Aditya Nath<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>1st year student in CMR Technical Campus<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>A Passionate developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -29,10 +29,6 @@ const Aditya = {
     <div class="skills" style="flex">
         
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,tailwindcss,react,redux,nodejs,expressjs,mongodb)](https://skillicons.dev)
-
-<img width="45" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
-<img width="45" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png"/>
-<img width="45" src="https://appwrite.io/assets/logomark/logo.svg"/>
     </div>
 </div>
 
